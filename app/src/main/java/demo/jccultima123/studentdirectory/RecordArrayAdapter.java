@@ -9,8 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.androidbegin.studentdirectory.data.StudentDetails;
-import com.androidbegin.studentdirectory.data.TeacherDetails;
+import demo.jccultima123.studentdirectory.data.StudentDetails;
+import demo.jccultima123.studentdirectory.data.TeacherDetails;
 import com.j256.ormlite.dao.Dao;
 
 @SuppressWarnings("rawtypes")
