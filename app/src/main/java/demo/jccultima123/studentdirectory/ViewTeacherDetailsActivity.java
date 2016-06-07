@@ -12,9 +12,9 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.androidbegin.studentdirectory.data.DatabaseHelper;
-import com.androidbegin.studentdirectory.data.StudentDetails;
-import com.androidbegin.studentdirectory.data.TeacherDetails;
+import demo.jccultima123.studentdirectory.data.DatabaseHelper;
+import demo.jccultima123.studentdirectory.data.StudentDetails;
+import demo.jccultima123.studentdirectory.data.TeacherDetails;
 import com.j256.ormlite.android.apptools.OpenHelperManager;
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.stmt.PreparedQuery;

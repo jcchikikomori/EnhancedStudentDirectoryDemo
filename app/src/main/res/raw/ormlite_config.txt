@@ -1,5 +1,5 @@
 # --table-start--
-dataClass=com.androidbegin.studentdirectory.data.TeacherDetails
+dataClass=demo.jccultima123.studentdirectory.data.TeacherDetails
 tableName=teacher_details
 # --table-fields-start--
 # --field-start--
@@ -20,7 +20,7 @@ fieldName=address
 
 #################################
 # --table-start--
-dataClass=com.androidbegin.studentdirectory.data.StudentDetails
+dataClass=demo.jccultima123.studentdirectory.data.StudentDetails
 tableName=student_details
 # --table-fields-start--
 # --field-start--
