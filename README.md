@@ -8,8 +8,8 @@ Clone it, use Android Studio and just import your repo to Start!
 I am attempting to provide support up to 2.3.6 / API 10 since many devices still using that.
 But i would suggest that you must gonna build / test / run it at least ICS or Jelly Bean or later device versions
 
-## Material on Gingerbread? (Coming up soon!)
-Material UI has several limitations until Kitkat was released. So if you want full functionality of it, use at least Kitkat or later
+## Material on Gingerbread? (Maybe not)
+Material would occur limitations of the UI for Gingerbread. So if you want full functionality of it, use at least Kitkat or later
 
 ## Reminder
 The app can cause several bugs as today, we still on alpha stage
